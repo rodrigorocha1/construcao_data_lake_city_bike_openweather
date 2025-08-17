@@ -207,3 +207,9 @@ marimo/_lsp/
 __marimo__/
 /docs/.~lock.requisitos.odt#
 /docs/.$estrutura_datalake.drawio.bkp
+/.idea/construcao_data_lake_city_bike_openweather.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/
